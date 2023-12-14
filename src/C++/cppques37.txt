@@ -1,0 +1,5 @@
+Which of the following statement is correct?
+A.	Constructors can have default parameters.
+B.	Constructors cannot have default parameters.
+C.	Constructors cannot have more than one default parameter.
+D.	Constructors can have at most five default parameters.

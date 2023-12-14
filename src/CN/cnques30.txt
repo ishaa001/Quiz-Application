@@ -1,0 +1,6 @@
+A network administrator views the output from the show ip route command. A network that is advertised by both RIP and IGRP appears in the routing table flagged as an IGRP route. Why is the RIP route to this network not used in the routing table?
+
+A.	IGRP has a faster update timer.
+B.	IGRP has a lower administrative distance.
+C.	RIP has a higher metric value for that route.
+D.	The IGRP route has fewer hops.

@@ -1,0 +1,5 @@
+A complete n-ary tree is one in which every node has 0 or n sons. If x is the number of internal nodes of a complete n-ary tree, the number of leaves in it is given by
+A. x(n-1)+1
+B. xn-1
+C. xn+1
+D. x(n+1)

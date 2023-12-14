@@ -1,0 +1,17 @@
+STACK
+
+What is a Stack?
+A Stack is a linear data structure. In case of an array, random access is possible, i.e., any element of an array can be accessed at any time, whereas in a stack, the sequential access is only possible. It is a container that follows the insertion and deletion rule. It follows the principle LIFO (Last In First Out) in which the insertion and deletion take place from one side known as a top. In stack, we can insert the elements of a similar data type, i.e., the different data type elements cannot be inserted in the same stack. The two operations are performed in LIFO, i.e., push and pop operation.
+
+The following are the operations that can be performed on the stack:
+
+push(x): It is an operation in which the elements are inserted at the top of the stack. In the push function, we need to pass an element which we want to insert in a stack.
+pop(): It is an operation in which the elements are deleted from the top of the stack. In the pop() function, we do not have to pass any argument.
+peek()/top(): This function returns the value of the topmost element available in the stack. Like pop(), it returns the value of the topmost element but does not remove that element from the stack.
+isEmpty(): If the stack is empty, then this function will return a true value or else it will return a false value.
+isFull(): If the stack is full, then this function will return a true value or else it will return a false value.
+
+In stack, the top is a pointer which is used to keep track of the last inserted element. To implement the stack, we should know the size of the stack. We need to allocate the memory to get the size of the stack. There are two ways to implement the stack:
+
+Static: The static implementation of the stack can be done with the help of arrays.
+Dynamic: The dynamic implementation of the stack can be done with the help of a linked list.

@@ -1,0 +1,5 @@
+Which of the following statements is incorrect?
+A.	Friend keyword can be used in the class to allow access to another class.
+B.	Friend keyword can be used for a function in the public section of a class.
+C.	Friend keyword can be used for a function in the private section of a class.
+D.	Friend keyword can be used on main().

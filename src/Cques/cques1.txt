@@ -1,0 +1,5 @@
+The keyword used to transfer control from a function back to the calling function is:
+A.	switch
+B.	goto
+C.	go back
+D.	return

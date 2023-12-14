@@ -1,0 +1,14 @@
+What does the following function do for a given binary tree?
+int fun(struct node *root)
+{
+   if (root == NULL)
+      return 0;
+   if (root->left == NULL && root->right == NULL)
+      return 0;
+   return 1 + fun(root->left) + fun(root->right);
+}
+
+A. Counts leaf nodes
+B. Counts internal nodes
+C. Returns height where height is defined as number of edges on the path from root to deepest node
+D. Return diameter where diameter is number of edges on the longest path between any two nodes.

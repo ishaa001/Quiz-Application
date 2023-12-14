@@ -1,0 +1,6 @@
+What layer in the TCP/IP stack is equivalent to the Transport layer of the OSI model?
+
+A.	Application
+B.	Host-to-Host
+C.	Internet
+D.	Network Access

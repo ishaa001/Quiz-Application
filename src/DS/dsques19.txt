@@ -1,0 +1,5 @@
+Let G be a weighted undirected graph and e be an edge with maximum weight in G. Suppose there is a minimum weight spanning tree in G containing the edge e. Which of the following statements is always TRUE?  
+A. There exists a cutset in G having all edges of maximum weight.
+B. There exists a cycle in G having all edges of maximum weight
+C. Edge e cannot be contained in a cycle.
+D. All edges in G have the same weight

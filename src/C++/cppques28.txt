@@ -1,0 +1,5 @@
+Which of the following statement is incorrect?
+A.	Constructor is a member function of the class.
+B.	The compiler always provides a zero argument constructor.
+C.	It is necessary that a constructor in a class should always be public.
+D.	Both B and C.

@@ -1,0 +1,6 @@
+You have an interface on a router with the IP address of 192.168.192.10/29. Including the router interface, how many hosts can have IP addresses on the LAN attached to the router interface?
+
+A.	6
+B.	8
+C.	30
+D.	32

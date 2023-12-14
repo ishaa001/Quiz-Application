@@ -1,0 +1,6 @@
+Which of the following is the decimal and hexadecimal equivalents of the binary number 10011101?
+
+A.	155, 0x9B
+B.	157, 0x9D
+C.	159, 0x9F
+D.	185, 0xB9

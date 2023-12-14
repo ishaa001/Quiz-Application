@@ -1,0 +1,6 @@
+What command is used to create a backup configuration?
+
+A.	copy running backup
+B.	copy running-config startup-config
+C.	config mem
+D.	wr mem

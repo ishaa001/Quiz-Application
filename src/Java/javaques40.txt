@@ -1,0 +1,6 @@
+Which collection class allows you to access its elements by associating a key with an element's value, and provides synchronization?
+
+A.	java.util.SortedMap
+B.	java.util.TreeMap
+C.	java.util.TreeSet
+D.	java.util.Hashtable

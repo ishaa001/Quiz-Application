@@ -1,0 +1,6 @@
+Which traversal of tree resembles the breadth first search of the graph?
+
+A. Preorder
+B. Inorder
+C. Postorder
+D. Level order

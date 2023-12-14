@@ -1,0 +1,14 @@
+QUEUE
+
+What is the Queue?
+A Queue is a linear data structure. It is an ordered list that follows the principle FIFO (First In -First Out). A Queue is a structure that follows some restrictions on insertion and deletion. In the case of Queue, insertion is performed from one end, and that end is known as a rear end. The deletion is performed from another end, and that end is known as a front end. In Queue, the technical words for insertion and deletion are enqueue() and dequeue(), respectively whereas, in the case of the stack, the technical words for insertion and deletion are push() and pop(), respectively. Its structure contains two pointers front pointer and rear pointer, where the front pointer is a pointer that points to the element that was first added in the queue and the rear pointer that points to the element inserted last in the queue.
+
+
+Similarities between stack and queue.
+There are two similarities between the stack and queue:
+
+Linear data structure
+Both the stack and queue are the linear data structure, which means that the elements are stored sequentially and accessed in a single run.
+
+Flexible in size
+Both the stack and queue are flexible in size, which means they can grow and shrink according to the requirements at the run-time.

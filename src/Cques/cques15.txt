@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+    int i=3, *j, k;
+    j = &i;
+    printf("%d\n", i**j*i+*j);
+    return 0;
+}
+A.	30
+B.	27
+C.	9
+D.	3

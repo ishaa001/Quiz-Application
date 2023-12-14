@@ -1,0 +1,6 @@
+To test the IP stack on your local host, which IP address would you ping?
+
+A.	127.0.0.0
+B.	1.0.0.127
+C.	127.0.0.1
+D.	127.0.0.255

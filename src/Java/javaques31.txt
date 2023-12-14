@@ -1,0 +1,17 @@
+public void test(int x) 
+{ 
+    int odd = 1; 
+    if(odd) /* Line 4 */
+    {
+        System.out.println("odd"); 
+    } 
+    else 
+    {
+        System.out.println("even"); 
+    } 
+}
+Which statement is true?
+A.	Compilation fails.
+B.	"odd" will always be output.
+C.	"even" will always be output.
+D.	"odd" will be output for odd values of x, and "even" for even values.

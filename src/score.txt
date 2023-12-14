@@ -1,0 +1,25 @@
+Isha 	40 	C Programming
+Shubhi  20      C++ Programming
+Dhwani  50      Java Programming
+Irin    70      Algorithms and Data Structures
+Anu     80      Computer Networks
+Reena   60      C Programming
+Mahima  10      Java Programming
+Ritika  50      Computer Networks
+Tanu    30      Computer Networks
+Ashi    70      Algorithms and Data Structures
+Tisha   40      Algorithms and Data Structures
+Pranu   50      Algorithms and Data Structures
+Sonu    20      Java Programming
+Shweta  30      Java Programming
+Esha    40      Java Programming
+Ishita  70 	C Programming
+Shreya  80 	C Programming
+Krina	100 	C Programming
+Jinal   30      C++ Programming
+Jaya    40      C++ Programming
+Shivani 50      C++ Programming
+Keshal 	80 	C Programming
+Khushi 	70 	C Programming
+Naira 	80 	C Programming
+Isha 	80 	C Programming

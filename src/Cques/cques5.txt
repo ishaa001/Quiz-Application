@@ -1,0 +1,3 @@
+Functions can be called either by value or reference
+A.	True
+B.	False

@@ -1,0 +1,6 @@
+Suppose the elements 7, 2, 10 and 4 are inserted, in that order, into the valid 3- ary max heap found in the above question, Which one of the following is the sequence of items in the array representing the resultant heap?
+
+A. 10, 7, 9, 8, 3, 1, 5, 2, 6, 4
+B. 10, 9, 8, 7, 6, 5, 4, 3, 2, 1
+C. 10, 9, 4, 5, 7, 6, 8, 2, 1, 3
+D. 10, 8, 6, 9, 7, 2, 3, 4, 1, 5

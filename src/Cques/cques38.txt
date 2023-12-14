@@ -1,0 +1,3 @@
+one of elements of a structure can be a pointer to the same structure.
+A.	True
+B.	False

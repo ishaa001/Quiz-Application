@@ -1,0 +1,6 @@
+To back up an IOS, what command will you use?
+
+A.	backup IOS disk
+B.	copy ios tftp
+C.	copy tftp flash
+D.	copy flash tftp

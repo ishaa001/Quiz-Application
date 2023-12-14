@@ -1,0 +1,5 @@
+When searching for the key value 60 in a binary search tree, nodes containing the key values 10, 20, 40, 50, 70 80, 90 are traversed, not necessarily in the order given. How many different orders are possible in which these key values can occur on the search path from the root to the node containing the value 60?
+A. 35
+B. 64
+C. 128
+D. 5040

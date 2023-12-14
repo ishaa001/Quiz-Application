@@ -1,0 +1,6 @@
+If an Ethernet port on a router were assigned an IP address of 172.16.112.1/25, what would be the valid subnet address of this host?
+
+A.	172.16.112.0
+B.	172.16.0.0
+C.	172.16.96.0
+D.	172.16.255.0

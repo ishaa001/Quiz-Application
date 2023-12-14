@@ -1,0 +1,6 @@
+Which interface provides the capability to store objects using a key-value pair?
+
+A.	Java.util.Map
+B.	Java.util.Set
+C.	Java.util.List
+D.	Java.util.Collection

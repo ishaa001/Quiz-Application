@@ -1,0 +1,17 @@
+Let A be a square matrix of size n x n. Consider the following program. What is the expected output?
+C = 100
+for i = 1 to n do
+    for j = 1 to n do
+    {
+        Temp = A[i][j] + C
+        A[i][j] = A[j][i]
+        A[j][i] = Temp - C
+    } 
+for i = 1 to n do
+    for j = 1 to n do
+        Output(A[i][j]);
+
+A. The matrix A itself
+B. Transpose of matrix A
+C. Adding 100 to the upper diagonal elements and subtracting 100 from diagonal elements of A
+D. None of the above

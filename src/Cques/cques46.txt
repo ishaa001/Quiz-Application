@@ -1,0 +1,5 @@
+What will happen if in a C program you assign a value to an array element whose subscript exceeds the size of array?
+A.	The element will be set to 0.
+B.	The compiler would report an error.
+C.	The program may crash if some important data gets overwritten.
+D.	The array size would appropriately grow.

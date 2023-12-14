@@ -1,0 +1,6 @@
+Which of the following commands will allow you to set your Telnet password on a Cisco router?
+
+A.	line telnet 0 4
+B.	line aux 0 4
+C.	line vty 0 4
+D.	line con 0

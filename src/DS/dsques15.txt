@@ -1,0 +1,5 @@
+Which of the following statements is/are TRUE for an undirected graph? P: Number of odd degree vertices is even Q: Sum of degrees of all vertices is even
+A. P Only
+B. Q Only
+C. Both P and Q
+D. Neither P nor Q

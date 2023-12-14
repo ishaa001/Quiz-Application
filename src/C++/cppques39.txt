@@ -1,0 +1,6 @@
+Which of the following function declaration is/are incorrect?
+A.	int Sum(int a, int b = 2, int c = 3);
+B.	int Sum(int a = 5, int b);
+C.	int Sum(int a = 0, int b, int c = 3);
+D.	Both B and C are incorrect.
+E.	All are correct.

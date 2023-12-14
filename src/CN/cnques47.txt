@@ -1,0 +1,6 @@
+What is the subnetwork number of a host with an IP address of 172.16.66.0/21?
+
+A.	172.16.36.0
+B.	172.16.48.0
+C.	172.16.64.0
+D.	172.16.0.0

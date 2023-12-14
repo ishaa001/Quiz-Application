@@ -1,0 +1,24 @@
+Following function is supposed to calculate the maximum depth or height of a Binary tree -- the number of nodes along the longest path from the root node down to the farthest leaf node.
+
+int maxDepth(struct node* node)
+{
+   if (node==NULL)
+       return 0;
+   else
+   {
+       /* compute the depth of each subtree */
+       int lDepth = maxDepth(node->left);
+       int rDepth = maxDepth(node->right);
+  
+       /* use the larger one */
+       if (lDepth > rDepth)
+           return X;
+       else return Y;
+   }
+}
+
+What should be the values of X and Y so that the function works correctly?
+A. X = lDepth, Y = rDepth
+B. X = lDepth + 1, Y = rDepth + 1
+C. X = lDepth - 1, Y = rDepth -1
+D. None of the above

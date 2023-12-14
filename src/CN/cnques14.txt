@@ -1,0 +1,6 @@
+Which of the following allows a router to respond to an ARP request that is intended for a remote host?
+
+A.	Gateway DP
+B.	Reverse ARP (RARP)
+C.	Proxy ARP
+D.	Inverse ARP (IARP)

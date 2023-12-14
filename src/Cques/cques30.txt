@@ -1,0 +1,6 @@
+Is there any difference between the two statements?
+char *ch = "Hello World";
+char ch[] = "Hello World";
+
+A.	Yes
+B.	No

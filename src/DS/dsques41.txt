@@ -1,0 +1,14 @@
+What does the following function do for a given Linked List with first node as head?
+void fun1(struct node* head)
+{
+  if(head == NULL)
+    return;
+  
+  fun1(head->next);
+  printf("%d  ", head->data);
+}
+
+A. Prints all nodes of linked lists
+B. Prints all nodes of linked list in reverse order
+C. Prints alternate nodes of Linked List
+D. Prints alternate nodes in reverse order

@@ -1,0 +1,6 @@
+You need to configure a server that is on the subnet 192.168.19.24/29. The router has the first available host address. Which of the following should you assign to the server?
+
+A.	192.168.19.0 255.255.255.0
+B.	192.168.19.33 255.255.255.240
+C.	192.168.19.26 255.255.255.248
+D.	192.168.19.31 255.255.255.248

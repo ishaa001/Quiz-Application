@@ -1,0 +1,6 @@
+Which of the following cannot generate the full binary tree?
+
+A. Inorder and Preorder
+B. Inorder and Postorder
+C. Preorder and Postorder
+D. None of the above

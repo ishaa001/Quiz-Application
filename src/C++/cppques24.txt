@@ -1,0 +1,5 @@
+Destructor has the same name as the constructor and it is preceded by ______ .
+A.	!
+B.	?
+C.	~
+D.	$

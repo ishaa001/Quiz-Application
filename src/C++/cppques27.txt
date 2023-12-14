@@ -1,0 +1,5 @@
+Which of the following statement is correct?
+A.	Constructor has the same name as that of the class.
+B.	Destructor has the same name as that of the class with a tilde symbol at the beginning.
+C.	Both A and B.
+D.	Destructor has the same name as the first member function of the class.

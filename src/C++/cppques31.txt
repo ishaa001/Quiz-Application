@@ -1,0 +1,5 @@
+Which of the following function prototype is perfectly acceptable?
+A.	int Function(int Tmp = Show());
+B.	float Function(int Tmp = Show(int, float));
+C.	Both A and B.
+D.	float = Show(int, float) Function(Tmp);

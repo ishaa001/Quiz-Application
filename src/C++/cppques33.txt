@@ -1,0 +1,5 @@
+Which of the following statement is correct?
+A.	Overloaded functions can have at most one default argument.
+B.	An overloaded function cannot have default argument.
+C.	All arguments of an overloaded function can be default.
+D.	A function if overloaded more than once cannot have default argument.

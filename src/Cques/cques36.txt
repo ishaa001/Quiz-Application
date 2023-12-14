@@ -1,0 +1,3 @@
+Nested unions are allowed
+A.	True
+B.	False

@@ -1,0 +1,5 @@
+When are the Global objects destroyed?
+A.	When the control comes out of the block in which they are being used.
+B.	When the program terminates.
+C.	When the control comes out of the function in which they are being used.
+D.	As soon as local objects die.

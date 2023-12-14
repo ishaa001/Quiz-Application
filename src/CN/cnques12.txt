@@ -1,0 +1,6 @@
+You want to implement a mechanism that automates the IP configuration, including IP address, subnet mask, default gateway, and DNS information. Which protocol will you use to accomplish this?
+
+A.	SMTP
+B.	SNMP
+C.	DHCP
+D.	ARP

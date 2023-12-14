@@ -1,0 +1,6 @@
+What is the maximum number of IP addresses that can be assigned to hosts on a local subnet that uses the 255.255.255.224 subnet mask?
+
+A.	14
+B.	15
+C.	16
+D.	30

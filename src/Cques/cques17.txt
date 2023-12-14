@@ -1,0 +1,3 @@
+Are the expression *ptr++ and ++*ptr are same?
+A.	True
+B.	False

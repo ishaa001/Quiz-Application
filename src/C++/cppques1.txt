@@ -1,0 +1,5 @@
+Which of the following type of class allows only one object of it to be created?
+A.	Virtual class
+B.	Abstract class
+C.	Singleton class
+D.	Friend class

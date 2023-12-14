@@ -1,0 +1,6 @@
+Which of the following pairs of traversals is not sufficient to build a binary tree from the given traversals?
+
+A. Preorder and Inorder
+B. Preorder and Postorder
+C. Inorder and Postorder
+D. None of the Above

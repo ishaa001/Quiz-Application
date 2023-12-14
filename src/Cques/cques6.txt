@@ -1,0 +1,3 @@
+A function may have any number of return statements each returning different values.
+A.	True
+B.	False

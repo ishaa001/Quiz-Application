@@ -1,0 +1,5 @@
+Given an undirected graph G with V vertices and E edges, the sum of the degrees of all vertices is
+A. E
+B. 2E
+C. V
+D. 2V

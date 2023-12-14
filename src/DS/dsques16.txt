@@ -1,0 +1,5 @@
+Consider an undirected random graph of eight vertices. The probability that there is an edge between a pair of vertices is 1/2. What is the expected number of unordered cycles of length three?
+A. 1/8
+B. 1
+C. 7
+D. 8

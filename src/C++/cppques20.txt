@@ -1,0 +1,5 @@
+Which of the following statement is correct about the references?
+A.	A reference must always be initialized within functions.
+B.	A reference must always be initialized outside all functions.
+C.	A reference must always be initialized.
+D.	Both A and C.

@@ -1,0 +1,6 @@
+Which is true about a method-local inner class?
+
+A.	It must be marked final.
+B.	It can be marked abstract.
+C.	It can be marked public.
+D.	It can be marked static.

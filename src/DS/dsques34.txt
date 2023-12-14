@@ -1,0 +1,5 @@
+What is the time complexity of Build Heap operation. Build Heap is used to build a max(or min) binary heap from a given array. Build Heap is used in Heap Sort as a first step for sorting.
+A. O(nLogn)
+B. O(n^2)
+C. O(Logn)
+D. O(n)

@@ -1,0 +1,5 @@
+Which of the following statement is correct?
+A.	Two functions having same number of argument, order and type of argument can be overloaded if both functions do not have any default argument.
+B.	Overloaded function must have default arguments.
+C.	Overloaded function must have default arguments starting from the left of argument list.
+D.	A function can be overloaded more than once.

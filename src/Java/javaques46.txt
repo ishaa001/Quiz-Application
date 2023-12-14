@@ -1,0 +1,6 @@
+Which will contain the body of the thread?
+
+A.	run();
+B.	start();
+C.	stop();
+D.	main();

@@ -1,0 +1,9 @@
+Which of the following statements is correct?
+
+1.Once a reference variable has been defined to refer to a particular variable it can refer to any other variable.
+2.A reference is not a constant pointer.
+
+A.	Only 1 is correct.
+B.	Only 2 is correct.
+C.	Both 1 and 2 are correct.
+D.	Both 1 and 2 are incorrect.

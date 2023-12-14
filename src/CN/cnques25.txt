@@ -1,0 +1,6 @@
+Two connected routers are configured with RIP routing. What will be the result when a router receives a routing update that contains a higher-cost path to a network already in its routing table?
+
+A.	The updated information will be added to the existing routing table.
+B.	The update will be ignored and no further action will occur.
+C.	The updated information will replace the existing routing table entry.
+D.	The existing routing table entry will be deleted from the routing table and all routers will exchange routing updates to reach convergence.

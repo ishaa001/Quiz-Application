@@ -1,0 +1,6 @@
+Which class of IP address provides a maximum of only 254 host addresses per network ID?
+
+A.	Class A
+B.	Class B
+C.	Class C
+D.	Class D

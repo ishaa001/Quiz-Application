@@ -1,0 +1,6 @@
+You type debug ip rip on your router console and see that 172.16.10.0 is being advertised to you with a metric of 16. What does this mean?
+
+A.	The route is 16 hops away.
+B.	The route has a delay of 16 microseconds.
+C.	The route is inaccessible.
+D.	The route is queued at 16 messages a second.

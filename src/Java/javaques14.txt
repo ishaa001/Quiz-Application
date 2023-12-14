@@ -1,0 +1,6 @@
+Which statement is true about a static nested class?
+
+A.	You must have a reference to an instance of the enclosing class in order to instantiate it.
+B.	It does not have access to nonstatic members of the enclosing class.
+C.	It's variables and methods must be static.
+D.	It must extend the enclosing class.

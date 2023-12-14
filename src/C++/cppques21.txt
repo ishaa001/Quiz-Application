@@ -1,0 +1,5 @@
+A constructor that accepts __________ parameters is called the default constructor.
+A.	one
+B.	two
+C.	no
+D.	three

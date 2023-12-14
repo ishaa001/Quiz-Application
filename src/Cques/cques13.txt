@@ -1,0 +1,5 @@
+If a variable is a pointer to a structure, then which of the following operator is used to access data members of the structure through the pointer variable?
+A.	.
+B.	&
+C.	*
+D.	->

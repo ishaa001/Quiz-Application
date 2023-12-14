@@ -1,0 +1,3 @@
+If a function contains two return statements successively, the compiler will generate warnings. Yes/No ?
+A.	Yes
+B.	No

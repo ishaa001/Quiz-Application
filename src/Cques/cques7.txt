@@ -1,0 +1,3 @@
+Names of functions in two different files linked together must be unique
+A.	True
+B.	False

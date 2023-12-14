@@ -1,0 +1,6 @@
+You need to subnet a network that has 5 subnets, each with at least 16 hosts. Which classful subnet mask would you use?
+
+A.	255.255.255.192
+B.	255.255.255.224
+C.	255.255.255.240
+D.	255.255.255.248

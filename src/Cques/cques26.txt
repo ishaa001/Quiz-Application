@@ -1,0 +1,14 @@
+What will be the output of the program ?
+#include<stdio.h>
+
+int main()
+{
+    char p[] = "%d\n";
+    p[1] = 'c';
+    printf(p, 65);
+    return 0;
+}
+A.	A
+B.	a
+C.	c
+D.	65

@@ -1,0 +1,6 @@
+What is route poisoning?
+
+A.	It sends back the protocol received from a router as a poison pill, which stops the regular updates.
+B.	It is information received from a router that can't be sent back to the originating router.
+C.	It prevents regular update messages from reinstating a route that has just come up.
+D.	It describes when a router sets the metric for a downed link to infinity.

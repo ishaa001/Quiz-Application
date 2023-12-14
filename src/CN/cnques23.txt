@@ -1,0 +1,6 @@
+What is split horizon?
+
+A.	Information about a route should not be sent back in the direction from which the original update came.
+B.	It splits the traffic when you have a large bus (horizon) physical network.
+C.	It holds the regular updates from broadcasting to a downed link.
+D.	It prevents regular update messages from reinstating a route that has gone down.

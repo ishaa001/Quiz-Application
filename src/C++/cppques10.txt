@@ -1,0 +1,5 @@
+Which of the following concepts of OOPS means exposing only necessary information to client?
+A.	Encapsulation
+B.	Abstraction
+C.	Data hiding
+D.	Data binding

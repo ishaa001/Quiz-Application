@@ -1,0 +1,15 @@
+What will be the output of the program (when you run with the -ea option) ?
+
+public class Test 
+{  
+    public static void main(String[] args) 
+    {
+        int x = 0;  
+        assert (x > 0) : "assertion failed"; /* Line 6 */
+        System.out.println("finished"); 
+    } 
+}
+A.	finished
+B.	Compilation fails.
+C.	An AssertionError is thrown.
+D.	An AssertionError is thrown and finished is output.

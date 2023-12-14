@@ -1,0 +1,5 @@
+Which of the following statements is correct when a class is inherited publicly?
+A.	Public members of the base class become protected members of derived class.
+B.	Public members of the base class become private members of derived class.
+C.	Private members of the base class become protected members of derived class.
+D.	Public members of the base class become public members of derived class.

@@ -1,0 +1,6 @@
+Which of the following tree traversal uses a queue data structure?
+
+A. Preorder
+B. Inorder
+C. Postorder
+D. Level order

@@ -1,0 +1,12 @@
+Point out the compile time error in the program given below.
+#include<stdio.h>
+int main()
+{
+    int *x;
+    *x=100;
+    return 0;
+}
+A.	Error: invalid assignment for x
+B.	Error: suspicious pointer conversion
+C.	No error
+D.	None of above

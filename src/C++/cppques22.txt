@@ -1,0 +1,5 @@
+What happens when a class with parameterized constructors and having no default constructor is used in a program and we create an object that needs a zero-argument constructor?
+A.	Compile-time error.
+B.	Preprocessing error.
+C.	Runtime error.
+D.	Runtime exception.

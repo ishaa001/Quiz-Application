@@ -1,0 +1,5 @@
+If all the edge weights of an undirected graph are positive, then any subset of edges that connects all the vertices and has minimum total weight is a  
+A. Hamiltonian cycle
+B. grid
+C. hypercube
+D. tree

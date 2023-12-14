@@ -1,0 +1,6 @@
+What is the name of the method used to start a thread execution?
+
+A.	init();
+B.	start();
+C.	run();
+D.	resume();

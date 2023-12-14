@@ -1,0 +1,6 @@
+Which one of the following is an application of Queue Data Structure?
+
+A. When a resource is shared among multiple consumers.
+B. When data is transferred asynchronously (data not necessarily received at same rate as sent) between two processes
+C. Load Balancing
+D. All of the above

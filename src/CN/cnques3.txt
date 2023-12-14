@@ -1,0 +1,11 @@
+What are the two main types of access control lists (ACLs)?
+
+1.Standard
+2.IEEE
+3.Extended
+4.Specialized
+
+A.	1 and 3
+B.	2 and 4
+C.	3 and 4
+D.	1 and 2

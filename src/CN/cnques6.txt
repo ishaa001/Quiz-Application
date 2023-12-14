@@ -1,0 +1,6 @@
+Which WLAN IEEE specification allows up to 54Mbps at 2.4GHz?
+
+A.	A
+B.	B
+C.	G
+D.	N

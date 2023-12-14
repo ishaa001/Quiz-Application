@@ -1,0 +1,5 @@
+Which of the following statement is incorrect?
+A.	Default arguments can be provided for pointers to functions.
+B.	A function can have all its arguments as default.
+C.	Default argument cannot be provided for pointers to functions.
+D.	A default argument cannot be redefined in later declaration.

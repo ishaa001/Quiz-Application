@@ -1,0 +1,5 @@
+Which of the following statement is false?
+A. A tree with n nodes has (n-1) edges.
+B. A labeled rooted binary tree can be uniquely constructed given its postorder and preorder traversal results.
+C. A complete binary tree with n internal nodes has (n+1) leaves.
+D. The maximum number of nodes in a binary tree of height h is (2^(h+1) -1).

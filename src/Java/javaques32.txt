@@ -1,0 +1,16 @@
+public class While 
+{
+    public void loop() 
+    {
+        int x= 0;
+        while ( 1 ) /* Line 6 */
+        {
+            System.out.print("x plus one is " + (x + 1)); /* Line 8 */
+        }
+    }
+}
+Which statement is true?
+A.	There is a syntax error on line 1.
+B.	There are syntax errors on lines 1 and 6.
+C.	There are syntax errors on lines 1, 6, and 8.
+D.	There is a syntax error on line 6.

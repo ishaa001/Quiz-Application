@@ -1,0 +1,6 @@
+Which layer 4 protocol is used for a Telnet connection?
+
+A.	IP
+B.	TCP
+C.	TCP/IP
+D.	UDP

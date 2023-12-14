@@ -1,0 +1,5 @@
+Which of the following statement is correct regarding destructor of base class?
+A.	Destructor of base class should always be static.
+B.	Destructor of base class should always be virtual.
+C.	Destructor of base class should not be virtual.
+D.	Destructor of base class should always be private.

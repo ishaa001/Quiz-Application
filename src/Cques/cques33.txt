@@ -1,0 +1,19 @@
+What will be the output of the program ?
+#include<stdio.h>
+
+int main()
+{
+    union var
+    {
+        int a, b;
+    };
+    union var v;
+    v.a=10;
+    v.b=20;
+    printf("%d\n", v.a);
+    return 0;
+}
+A.	10
+B.	20
+C.	30
+D.	0

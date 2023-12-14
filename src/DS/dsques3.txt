@@ -1,0 +1,5 @@
+The minimum number of comparisons required to determine if an integer appears more than n/2 times in a sorted array of n integers is
+A. Θ(n)
+B. Θ(logn)
+C. Θ(log*n)
+D. Θ(1)

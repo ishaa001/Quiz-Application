@@ -1,0 +1,5 @@
+How will you free the allocated memory ?
+A.	remove(var-name);
+B.	free(var-name);
+C.	delete(var-name);
+D.	dalloc(var-name);

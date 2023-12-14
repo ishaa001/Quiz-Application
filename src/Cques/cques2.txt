@@ -1,0 +1,13 @@
+How many times the program will print "Hello World" ?
+
+#include<stdio.h>
+int main()
+{
+    printf("Hello World");
+    main();
+    return 0;
+}
+A.	Infinite times
+B.	32767 times
+C.	65535 times
+D.	Till stack overflows

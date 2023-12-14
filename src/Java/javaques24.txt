@@ -1,0 +1,15 @@
+public class Myfile 
+{ 
+    public static void main (String[] args) 
+    {
+        String biz = args[1]; 
+        String baz = args[2]; 
+        String rip = args[3]; 
+        System.out.println("Arg is " + rip); 
+    } 
+}
+Select how you would start the program to cause it to print: Arg is 2
+A.	java Myfile 222
+B.	java Myfile 1 2 2 3 4
+C.	java Myfile 1 3 2 2
+D.	java Myfile 0 1 2 3

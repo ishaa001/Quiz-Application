@@ -1,0 +1,5 @@
+A pointer is
+A.	A keyword used to create variables
+B.	A variable that stores address of an instruction
+C.	A variable that stores address of other variable
+D.	All of the above

@@ -1,0 +1,5 @@
+Which of the following term is used for a function defined inside a class?
+A.	Member Variable
+B.	Member function
+C.	Class function
+D.	Classic function

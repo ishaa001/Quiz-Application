@@ -1,0 +1,5 @@
+Which of the following concepts provides facility of using object of one class inside another class?
+A.	Encapsulation
+B.	Abstraction
+C.	Composition
+D.	Inheritance

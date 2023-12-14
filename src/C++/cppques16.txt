@@ -1,0 +1,5 @@
+Which of the following statement is correct?
+A.	A reference is stored on heap.
+B.	A reference is stored on stack.
+C.	A reference is stored in a queue.
+D.	A reference is stored in a binary tree.

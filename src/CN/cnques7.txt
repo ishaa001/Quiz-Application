@@ -1,0 +1,6 @@
+Which of the following is the valid host range for the subnet on which the IP address 192.168.168.188 255.255.255.192 resides?
+
+A.	192.168.168.129-190
+B.	192.168.168.129-191
+C.	192.168.168.128-190
+D.	192.168.168.128-192

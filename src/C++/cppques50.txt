@@ -1,0 +1,5 @@
+Which of the following can access private data members or member functions of a class?
+A.	Any function in the program.
+B.	All global functions in the program.
+C.	Any member function of that class.
+D.	Only public member functions of that class.

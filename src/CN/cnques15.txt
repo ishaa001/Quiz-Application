@@ -1,0 +1,6 @@
+The DoD model (also called the TCP/IP stack) has four layers. Which layer of the DoD model is equivalent to the Network layer of the OSI model?
+
+A.	Application
+B.	Host-to-Host
+C.	Internet
+D.	Network Access

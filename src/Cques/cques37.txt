@@ -1,0 +1,3 @@
+Bit fields CANNOT be used in union.
+A.	True
+B.	False

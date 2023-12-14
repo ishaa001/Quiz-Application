@@ -1,0 +1,12 @@
+What will be the output of the program ?
+#include<stdio.h>
+
+int main()
+{
+    printf(5+"Good Morning\n");
+    return 0;
+}
+A.	Good Morning
+B.	Good
+C.	M
+D.	Morning

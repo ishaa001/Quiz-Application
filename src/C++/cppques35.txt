@@ -1,0 +1,5 @@
+Which of the following statement will be correct if the function has three arguments passed to it?
+A.	The trailing argument will be the default argument.
+B.	The first argument will be the default argument.
+C.	The middle argument will be the default argument.
+D.	All the argument will be the default argument.

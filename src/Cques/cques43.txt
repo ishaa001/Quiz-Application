@@ -1,0 +1,3 @@
+If scanf() is used to store a value in a char variable then along with the value a carriage return(\r) also gets stored it.
+A.	True
+B.	False

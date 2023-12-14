@@ -1,0 +1,6 @@
+What command is used to stop RIP routing updates from exiting out an interface but still allow the interface to receive RIP route updates?
+
+A.	Router(config-if)# no routing
+B.	Router(config-if)# passive-interface
+C.	Router(config-router)# passive-interface s0
+D.	Router(config-router)# no routing updates

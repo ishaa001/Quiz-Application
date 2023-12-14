@@ -1,0 +1,6 @@
+For the following statements will arr[3] and ptr[3] fetch the same character?
+char arr[] = "Hello World";
+char *ptr = "Hello World";
+
+A.	Yes
+B.	No

@@ -1,0 +1,5 @@
+Which of following option is not correct regarding depth first searching?
+A. In a depth-first traversal of a graph G with V vertices, E edges are marked as tree edges. The number of connected components in G is (E - V).
+B. Depth-first search requires O(V^2) time if implemented with an adjacency matrix.
+C. Depth-first search requires O(V + E) time if implemented with adjacency lists
+D. None of these

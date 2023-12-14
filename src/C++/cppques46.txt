@@ -1,0 +1,5 @@
+Which of the following statements is correct about the constructors and destructors?
+A.	Destructors can take arguments but constructors cannot.
+B.	Constructors can take arguments but destructors cannot.
+C.	Destructors can be overloaded but constructors cannot be overloaded.
+D.	Constructors and destructors can both return a value.

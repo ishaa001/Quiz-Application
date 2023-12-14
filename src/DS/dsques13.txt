@@ -1,0 +1,5 @@
+Consider an undirected unweighted graph G. Let a breadth-first traversal of G be done starting from a node r. Let d(r, u) and d(r, v) be the lengths of the shortest paths from r to u and v respectively, in G. lf u is visited before v during the breadth-first traversal, which of the following statements is correct? (GATE CS 2001)
+A. d(r, u) < d (r, v)
+B. d(r, u) > d(r, v)
+C. d(r, u) <= d (r, v)
+D. None of the above

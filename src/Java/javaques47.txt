@@ -1,0 +1,15 @@
+What will be the output of the program?
+
+public class Test 
+{  
+    public static void main(String[] args) 
+    { 
+        int x = 0;  
+        assert (x > 0) ? "assertion failed" : "assertion passed" ; 
+        System.out.println("finished");  
+    } 
+}
+A.	finished
+B.	Compiliation fails.
+C.	An AssertionError is thrown and finished is output.
+D.	An AssertionError is thrown with the message "assertion failed."

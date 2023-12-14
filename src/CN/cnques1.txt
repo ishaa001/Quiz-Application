@@ -1,0 +1,6 @@
+How long is an IPv6 address?
+
+A.	32 bits
+B.	128 bytes
+C.	64 bits
+D.	128 bits

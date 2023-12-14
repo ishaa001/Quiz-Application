@@ -1,0 +1,11 @@
+Which of the following statements are true regarding the command ip route 172.16.4.0 255.255.255.0 192.168.4.2?
+
+1.The command is used to establish a static route.
+2.The default administrative distance is used.
+3.The command is used to configure the default route.
+4.The subnet mask for the source address is 255.255.255.0.
+
+A.	1 and 2
+B.	2 and 4
+C.	3 and 4
+D.	All of the above

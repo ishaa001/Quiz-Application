@@ -1,0 +1,3 @@
+The modulus operator cannot be used with a long double.
+A.	True
+B.	False

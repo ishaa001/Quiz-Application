@@ -1,0 +1,5 @@
+Which constructor function is designed to copy objects of the same class type?
+A.	Create constructor
+B.	Object constructor
+C.	Dynamic constructor
+D.	Copy constructor

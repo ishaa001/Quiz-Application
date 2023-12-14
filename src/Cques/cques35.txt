@@ -1,0 +1,3 @@
+A union cannot be nested in a structure
+A.	True
+B.	False

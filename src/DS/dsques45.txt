@@ -1,0 +1,6 @@
+Which one of the following is an application of Stack Data Structure?
+
+A. Managing function calls
+B. The stock span problem
+C. Arithmetic expression evaluation
+D. All of the above

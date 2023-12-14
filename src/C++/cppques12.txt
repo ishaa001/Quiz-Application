@@ -1,0 +1,5 @@
+cout is a/an __________ .
+A.	operator
+B.	function
+C.	object
+D.	macro

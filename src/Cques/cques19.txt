@@ -1,0 +1,5 @@
+Is there any difference between the following two statements?
+char *p=0;
+char *t=NULL;
+A.	Yes
+B.	No

@@ -1,0 +1,5 @@
+Which of the following two entities (reading from Left to Right) can be connected by the dot operator?
+A.	A class member and a class object.
+B.	A class object and a class.
+C.	A class and a member of that class.
+D.	A class object and a member of that class.

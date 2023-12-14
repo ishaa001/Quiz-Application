@@ -1,0 +1,3 @@
+A structure can be nested inside another structure.
+A.	True
+B.	False

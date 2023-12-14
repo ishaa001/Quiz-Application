@@ -1,0 +1,5 @@
+Which of the following correctly declares an array?
+A. int geeks[20];
+B. int geeks;
+C. geeks{20};
+D. array geeks[20];

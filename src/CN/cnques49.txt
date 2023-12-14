@@ -1,0 +1,6 @@
+You have an interface on a router with the IP address of 192.168.192.10/29. What is the broadcast address the hosts will use on this LAN?
+
+A.	192.168.192.15
+B.	192.168.192.31
+C.	192.168.192.63
+D.	192.168.192.127

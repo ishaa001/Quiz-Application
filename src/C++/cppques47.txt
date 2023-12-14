@@ -1,0 +1,5 @@
+Which of the following access specifies is used in a class definition by default?
+A.	Protected
+B.	Public
+C.	Private
+D.	Friend

@@ -1,0 +1,6 @@
+What flavor of Network Address Translation can be used to have one IP address allow many users to connect to the global Internet?
+
+A.	NAT
+B.	Static
+C.	Dynamic
+D.	PAT

@@ -1,0 +1,5 @@
+Which of the following cannot be friend?
+A.	Function
+B.	Class
+C.	Object
+D.	Operator function

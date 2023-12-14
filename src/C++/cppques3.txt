@@ -1,0 +1,5 @@
+Which of the following statements is correct?
+A.	Base class pointer cannot point to derived class.
+B.	Derived class pointer cannot point to base class.
+C.	Pointer to derived class cannot be created.
+D.	Pointer to base class cannot be created.

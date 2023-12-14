@@ -1,0 +1,5 @@
+How many undirected graphs (not necessarily connected) can be constructed out of a given set V= {V 1, V 2,…V n} of n vertices ?
+A. n(n-l)/2
+B. 2^n
+C. n!
+D. 2^(n(n-1)/2)

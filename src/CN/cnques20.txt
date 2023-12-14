@@ -1,0 +1,11 @@
+Which statements are true regarding ICMP packets?
+
+1.ICMP guarantees datagram delivery.
+2.ICMP can provide hosts with information about network problems.
+3.ICMP is encapsulated within IP datagrams.
+4.ICMP is encapsulated within UDP datagrams.
+
+A.	1 only
+B.	2 and 3
+C.	1 and 4
+D.	All of the above

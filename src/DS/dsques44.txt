@@ -1,0 +1,6 @@
+In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is 
+
+A. log 2 n
+B. n/2
+C. log 2 n – 1
+D. n

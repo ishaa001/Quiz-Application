@@ -1,0 +1,5 @@
+How can we make a class abstract?
+A.	By making all member functions constant.
+B.	By making at least one member function as pure virtual function.
+C.	By declaring it abstract using the static keyword.
+D.	By declaring it abstract using the virtual keyword.

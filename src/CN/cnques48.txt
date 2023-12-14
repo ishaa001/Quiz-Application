@@ -1,0 +1,6 @@
+The network address of 172.16.0.0/19 provides how many subnets and hosts?
+
+A.	7 subnets, 30 hosts each
+B.	8 subnets, 8,190 hosts each
+C.	8 subnets, 2,046 hosts each
+D.	7 subnets, 2,046 hosts each

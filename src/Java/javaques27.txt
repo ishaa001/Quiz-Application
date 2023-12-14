@@ -1,0 +1,6 @@
+public class Test { }
+What is the prototype of the default constructor?
+A.	Test( )
+B.	Test(void)
+C.	public Test( )
+D.	public Test(void)

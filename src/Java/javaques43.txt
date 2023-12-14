@@ -1,0 +1,6 @@
+Which cannot directly cause a thread to stop executing?
+
+A.	Calling the SetPriority() method on a Thread object.
+B.	Calling the wait() method on an object.
+C.	Calling notify() method on an object.
+D.	Calling read() method on an InputStream object.

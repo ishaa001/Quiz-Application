@@ -1,0 +1,6 @@
+Which of the following sorting algorithms can be used to sort a random linked list with minimum time complexity?
+
+A. Insertion Sort
+B. Quick Sort
+C. Heap Sort
+D. Merge Sort

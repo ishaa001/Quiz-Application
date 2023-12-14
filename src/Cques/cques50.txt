@@ -1,0 +1,3 @@
+A pointer to a block of memory is effectively same as an array
+A.	True
+B.	False

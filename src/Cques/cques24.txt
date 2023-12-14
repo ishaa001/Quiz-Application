@@ -1,0 +1,5 @@
+Which of the following function is used to find the first occurrence of a given string in another string?
+A.	strchr()
+B.	strrchr()
+C.	strstr()
+D.	strnset()

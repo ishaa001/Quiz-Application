@@ -1,0 +1,10 @@
+Consider the label sequences obtained by the following pairs of traversals on a labeled binary tree. Which of these pairs identify a tree uniquely ?
+(i)     preorder and postorder
+(ii)    inorder and postorder
+(iii)   preorder and inorder
+(iv)   level order and postorder
+
+A. (i) only
+B. (ii), (iii)
+C. (iii) only
+D. (iv) only

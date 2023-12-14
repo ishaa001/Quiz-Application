@@ -1,0 +1,20 @@
+public class Outer 
+{ 
+    public void someOuterMethod() 
+    {
+        //Line 5 
+    } 
+    public class Inner { } 
+    
+    public static void main(String[] argv) 
+    {
+        Outer ot = new Outer(); 
+        //Line 10
+    } 
+} 
+Which of the following code fragments inserted, will allow to compile?
+
+A.	new Inner(); //At line 5
+B.	new Inner(); //At line 10
+C.	new ot.Inner(); //At line 10
+D.	new Outer.Inner(); //At line 10

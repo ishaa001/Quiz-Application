@@ -1,0 +1,5 @@
+Copy constructor must receive its arguments by __________ .
+A.	either pass-by-value or pass-by-reference
+B.	only pass-by-value
+C.	only pass-by-reference
+D.	only pass by address

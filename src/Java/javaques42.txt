@@ -1,0 +1,13 @@
+class X implements Runnable 
+{ 
+    public static void main(String args[]) 
+    {
+        /* Missing code? */
+    } 
+    public void run() {} 
+}
+Which of the following line of code is suitable to start a thread ?
+A.	Thread t = new Thread(X);
+B.	Thread t = new Thread(X); t.start();
+C.	X run = new X(); Thread t = new Thread(run); t.start();
+D.	Thread t = new Thread(); x.run();

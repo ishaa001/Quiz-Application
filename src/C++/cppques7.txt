@@ -1,0 +1,5 @@
+Which of the following concept of oops allows compiler to insert arguments in a function call if it is not specified?
+A.	Call by value
+B.	Call by reference
+C.	Default arguments
+D.	Call by pointer

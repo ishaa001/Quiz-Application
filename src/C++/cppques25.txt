@@ -1,0 +1,5 @@
+For automatic objects, constructors and destructors are called each time the objects
+A.	enter and leave scope
+B.	inherit parent class
+C.	are constructed
+D.	are destroyed

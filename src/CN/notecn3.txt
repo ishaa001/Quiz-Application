@@ -1,0 +1,25 @@
+Transport Layer
+
+The transport layer is responsible for the reliability, flow control, and correction of data which is being sent over the network.
+
+The two protocols used in the transport layer are User Datagram protocol and Transmission control protocol.
+
+User Datagram Protocol (UDP)
+It provides connectionless service and end-to-end delivery of transmission.
+It is an unreliable protocol as it discovers the errors but not specify the error.
+User Datagram Protocol discovers the error, and ICMP protocol reports the error to the sender that user datagram has been damaged.
+UDP consists of the following fields:
+Source port address: The source port address is the address of the application program that has created the message.
+Destination port address: The destination port address is the address of the application program that receives the message.
+Total length: It defines the total number of bytes of the user datagram in bytes.
+Checksum: The checksum is a 16-bit field used in error detection.
+UDP does not specify which packet is lost. UDP contains only checksum; it does not contain any ID of a data segment.
+TCP/IP model
+TCP/IP model
+
+Transmission Control Protocol (TCP)
+It provides a full transport layer services to applications.
+It creates a virtual circuit between the sender and receiver, and it is active for the duration of the transmission.
+TCP is a reliable protocol as it detects the error and retransmits the damaged frames. Therefore, it ensures all the segments must be received and acknowledged before the transmission is considered to be completed and a virtual circuit is discarded.
+At the sending end, TCP divides the whole message into smaller units known as segment, and each segment contains a sequence number which is required for reordering the frames to form an original message.
+At the receiving end, TCP collects all the segments and reorders them based on sequence numbers.

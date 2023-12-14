@@ -1,0 +1,5 @@
+Which is the valid declarations within an interface definition?
+A.	public double methoda();
+B.	public final double methoda();
+C.	static void methoda(double d1);
+D.	protected void methoda(double d1);

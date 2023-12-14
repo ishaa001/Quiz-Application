@@ -1,0 +1,5 @@
+In which header file is the NULL macro defined?
+A.	stdio.h
+B.	stddef.h
+C.	stdio.h and stddef.h
+D.	math.h

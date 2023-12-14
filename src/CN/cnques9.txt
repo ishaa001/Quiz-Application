@@ -1,0 +1,6 @@
+What protocol does PPP use to identify the Network layer protocol?
+
+A.	NCP
+B.	ISDN
+C.	HDLC
+D.	LCP

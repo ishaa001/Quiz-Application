@@ -1,0 +1,5 @@
+Which of the following statement is incorrect?
+A.	The default value for an argument can be a global constant.
+B.	The default arguments are given in the function prototype.
+C.	Compiler uses the prototype information to build a call, not the function definition.
+D.	The default arguments are given in the function prototype and should be repeated in the function definition.

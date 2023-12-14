@@ -1,0 +1,5 @@
+Which of the following function sets first n characters of a string to a given character?
+A.	strinit()
+B.	strnset()
+C.	strset()
+D.	strcset()

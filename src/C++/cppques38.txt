@@ -1,0 +1,5 @@
+Which of the following function / type of function cannot be overloaded?
+A.	Member function
+B.	Static function
+C.	Virtual function
+D.	Both B and C

@@ -1,0 +1,6 @@
+If you use either Telnet or FTP, which is the highest layer you are using to transmit data?
+
+A.	Application
+B.	Presentation
+C.	Session
+D.	Transport

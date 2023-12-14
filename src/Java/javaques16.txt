@@ -1,0 +1,17 @@
+class Foo 
+{
+    class Bar{ }
+}
+class Test 
+{
+    public static void main (String [] args) 
+    {
+        Foo f = new Foo();
+        /* Line 10: Missing statement ? */
+    }
+}
+which statement, inserted at line 10, creates an instance of Bar?
+A.	Foo.Bar b = new Foo.Bar();
+B.	Foo.Bar b = f.new Bar();
+C.	Bar b = new f.Bar();
+D.	Bar b = f.new Bar();

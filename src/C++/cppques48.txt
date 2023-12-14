@@ -1,0 +1,5 @@
+Which of the following statement is correct with respect to the use of friend keyword inside a class?
+A.	A private data member can be declared as a friend.
+B.	A class may be declared as a friend.
+C.	An object may be declared as a friend.
+D.	We can use friend keyword as a class name.

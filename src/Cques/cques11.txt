@@ -1,0 +1,5 @@
+What is (void*)0?
+A.	Representation of NULL pointer
+B.	Representation of void pointer
+C.	Error
+D.	None of above

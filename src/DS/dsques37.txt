@@ -1,0 +1,6 @@
+Consider a binary max-heap implemented using an array. Which one of the following array represents a binary max-heap?
+
+A. 25,12,16,13,10,8,14
+B. 25,12,16,13,10,8,14
+C. 25,14,16,13,10,8,12
+D. 25,14,12,13,10,8,16

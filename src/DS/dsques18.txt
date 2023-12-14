@@ -1,0 +1,5 @@
+What is the maximum number of edges in an acyclic undirected graph with n vertices?
+A. n-1
+B. n
+C. n + 1
+D. 2n-1

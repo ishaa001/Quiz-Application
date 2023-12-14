@@ -1,0 +1,94 @@
+C - Decision Making
+
+Decision making structures require that the programmer specifies one or more conditions to be evaluated or tested by the program, along with a statement or statements to be executed if the condition is determined to be true, and optionally, other statements to be executed if the condition is determined to be false.
+
+Show below is the general form of a typical decision making structure found in most of the programming languages −
+
+Decision making statements in C
+
+C programming language assumes any non-zero and non-null values as true, and if it is either zero or null, then it is assumed as false value.
+
+C programming language provides the following types of decision making statements.
+
+Sr.No.	Statement & Description
+1	if statement
+An if statement consists of a boolean expression followed by one or more statements.
+
+2	if...else statement
+An if statement can be followed by an optional else statement, which executes when the Boolean expression is false.
+
+3	nested if statements
+You can use one if or else if statement inside another if or else if statement(s).
+
+4	switch statement
+A switch statement allows a variable to be tested for equality against a list of values.
+
+5	nested switch statements
+You can use one switch statement inside another switch statement(s).
+
+The ? : Operator
+We have covered conditional operator ? : in the previous chapter which can be used to replace if...else statements. It has the following general form −
+
+Exp1 ? Exp2 : Exp3;
+Where Exp1, Exp2, and Exp3 are expressions. Notice the use and placement of the colon.
+
+The value of a ? expression is determined like this −
+
+Exp1 is evaluated. If it is true, then Exp2 is evaluated and becomes the value of the entire ? expression.
+
+If Exp1 is false, then Exp3 is evaluated and its value becomes the value of the expression.
+
+You may encounter situations, when a block of code needs to be executed several number of times. In general, statements are executed sequentially: The first statement in a function is executed first, followed by the second, and so on.
+
+Programming languages provide various control structures that allow for more complicated execution paths.
+
+A loop statement allows us to execute a statement or group of statements multiple times. Given below is the general form of a loop statement in most of the programming languages −
+
+Loop Architecture
+
+C programming language provides the following types of loops to handle looping requirements.
+
+Sr.No.	Loop Type & Description
+1	while loop
+Repeats a statement or group of statements while a given condition is true. It tests the condition before executing the loop body.
+
+2	for loop
+Executes a sequence of statements multiple times and abbreviates the code that manages the loop variable.
+
+3	do...while loop
+It is more like a while statement, except that it tests the condition at the end of the loop body.
+
+4	nested loops
+You can use one or more loops inside any other while, for, or do..while loop.
+
+Loop Control Statements
+Loop control statements change execution from its normal sequence. When execution leaves a scope, all automatic objects that were created in that scope are destroyed.
+
+C supports the following control statements.
+
+Sr.No.	Control Statement & Description
+1	break statement
+Terminates the loop or switch statement and transfers execution to the statement immediately following the loop or switch.
+
+2	continue statement
+Causes the loop to skip the remainder of its body and immediately retest its condition prior to reiterating.
+
+3	goto statement
+Transfers control to the labeled statement.
+
+The Infinite Loop
+A loop becomes an infinite loop if a condition never becomes false. The for loop is traditionally used for this purpose. Since none of the three expressions that form the 'for' loop are required, you can make an endless loop by leaving the conditional expression empty.
+
+#include <stdio.h>
+ 
+int main () {
+
+   for( ; ; ) {
+      printf("This loop will run forever.\n");
+   }
+
+   return 0;
+}
+When the conditional expression is absent, it is assumed to be true. You may have an initialization and increment expression, but C programmers more commonly use the for(;;) construct to signify an infinite loop.
+
+NOTE − You can terminate an infinite loop by pressing Ctrl + C keys.

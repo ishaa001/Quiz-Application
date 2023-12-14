@@ -1,0 +1,6 @@
+Which method must be defined by a class implementing the java.lang.Runnable interface?
+
+A.	void run()
+B.	public void run()
+C.	public void start()
+D.	void run(int priority)

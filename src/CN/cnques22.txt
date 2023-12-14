@@ -1,0 +1,6 @@
+Which command displays RIP routing updates?
+
+A.	show ip route
+B.	debug ip rip
+C.	show protocols
+D.	debug ip route

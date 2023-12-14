@@ -1,0 +1,7 @@
+If your routing table has a static, a RIP, and an IGRP route to the same network, which route will be used to route packets by default?
+
+A.	Any available route
+B.	RIP route
+C.	Static route
+D.	IGRP route
+E.	They will all load-balance.

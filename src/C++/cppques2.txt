@@ -1,0 +1,5 @@
+Which of the following is not a type of constructor?
+A.	Copy constructor
+B.	Friend constructor
+C.	Default constructor
+D.	Parameterized constructor

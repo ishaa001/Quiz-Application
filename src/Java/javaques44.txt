@@ -1,0 +1,6 @@
+Which of the following will directly stop the execution of a Thread?
+
+A.	wait()
+B.	notify()
+C.	notifyall()
+D.	exits synchronized code

@@ -1,0 +1,10 @@
+Which of the following statement(s) is TRUE?
+
+1. A hash function takes a message of arbitrary length and generates a fixed length code.
+2. A hash function takes a message of fixed length and generates a code of variable length.
+3. A hash function may give the same hash value for distinct messages.
+ 
+A. I only
+B. II and III only
+C. I and III only
+D. II only

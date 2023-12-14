@@ -1,0 +1,6 @@
+What is the content of the array after two delete operations on the correct answer to the previous question?
+
+A. 14,13,12,10,8
+B. 14,12,13,8,10
+C. 14,13,8,12,10
+D. 14,13,12,8,10

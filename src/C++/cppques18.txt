@@ -1,0 +1,9 @@
+Functions can be declared to return a reference type. There are reasons to make such a declaration/Which of the following reasons are correct?
+
+1.The information being returned is a large enough object that returning a reference is more efficient than returning a copy.
+2.The type of the function must be a R-value.
+
+A.	Only 1 is correct.
+B.	Only 2 is correct.
+C.	Both 1 and 2 are correct.
+D.	Both 1 and 2 are incorrect.

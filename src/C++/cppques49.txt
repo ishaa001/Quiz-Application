@@ -1,0 +1,5 @@
+Which of the following keywords is used to control access to a class member?
+A.	Default
+B.	Break
+C.	Protected
+D.	Asm

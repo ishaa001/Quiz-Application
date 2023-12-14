@@ -1,0 +1,5 @@
+In C, if you pass an array as an argument to a function, what actually gets passed?
+A.	Value of elements in array
+B.	First element of the array
+C.	Base address of the array
+D.	Address of the last element of array

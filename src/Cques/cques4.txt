@@ -1,0 +1,3 @@
+In C all functions except main() can be called recursively.
+A.	True
+B.	False

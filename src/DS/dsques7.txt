@@ -1,0 +1,6 @@
+A three dimensional array in ‘C’ is declared as int A[x][y][z]. Consider that array elements are stored in row major order and indexing begins from 0. Here, the address of an item at the location A[p][q][r] can be computed as follows (where w is the word length of an integer):
+
+A. &A[0][0][0] + w(y * z * q + z * p + r)
+B. &A[0][0][0] + w(y * z * p + z*q + r)
+C. &A[0][0][0] + w(x * y * p + z * q+ r)
+D. &A[0][0][0] + w(x * y * q + z * p + r)

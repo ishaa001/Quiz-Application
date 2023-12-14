@@ -1,0 +1,6 @@
+Which of the following is true regarding RIPv2?
+
+A.	It has a lower administrative distance than RIPv1.
+B.	It converges faster than RIPv1.
+C.	It has the same timers as RIPv1.
+D.	It is harder to configure than RIPv1.

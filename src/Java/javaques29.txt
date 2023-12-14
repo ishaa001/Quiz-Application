@@ -1,0 +1,7 @@
+Which cause a compiler error?
+
+A.	int[ ] scores = {3, 5, 7};
+B.	int [ ][ ] scores = {2,7,6}, {9,3,45};
+C.	String cats[ ] = {"Fluffy", "Spot", "Zeus"};
+D.	boolean results[ ] = new boolean [] {true, false, true};
+E.	Integer results[ ] = {new Integer(3), new Integer(5), new Integer(8)};

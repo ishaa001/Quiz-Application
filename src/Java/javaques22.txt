@@ -1,0 +1,6 @@
+Which of the following would compile without error?
+
+A.	int a = Math.abs(-5);
+B.	int b = Math.abs(5.0);
+C.	int c = Math.abs(5.5F);
+D.	int d = Math.abs(5L);

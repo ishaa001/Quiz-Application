@@ -1,0 +1,7 @@
+Which of the following statements is correct?
+1.Change a reference changes the referent.
+2.We can create an array of references.
+A.	Only 1 is correct.
+B.	Only 2 is correct.
+C.	Both 1 and 2 are correct.
+D.	Both 1 and 2 are incorrect.

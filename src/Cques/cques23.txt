@@ -1,0 +1,5 @@
+The library function used to find the last occurrence of a character in a string is
+A.	strnstr()
+B.	laststr()
+C.	strrchr()
+D.	strstr()

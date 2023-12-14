@@ -1,0 +1,6 @@
+In a binary max heap containing n numbers, the smallest element can be found in time
+
+A. 0(n)
+B. O(logn)
+C. 0(loglogn)
+D. 0(1)

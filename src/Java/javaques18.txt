@@ -1,0 +1,14 @@
+void start() 
+{  
+    A a = new A(); 
+    B b = new B(); 
+    a.s(b);  
+    b = null; /* Line 5 */
+    a = null;  /* Line 6 */
+    System.out.println("start completed"); /* Line 7 */
+} 
+When is the B object, created in line 3, eligible for garbage collection?
+A.	after line 5
+B.	after line 6
+C.	after line 7
+D.	There is no way to be absolutely certain.
